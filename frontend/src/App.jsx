@@ -1,13 +1,13 @@
 
 import {BrowserRouter ,Routes ,Route} from 'react-router-dom'
 import { Toaster } from 'sonner'
-import Signup from './Components/Signup'
-import Signin from './Components/Signin'
-import Dashboard from './Components/Dashboard'
-import SendMoney from './Components/SendMoney'
-import Profile from './Components/Profile'
-import Update from './Components/Update'
-import Redirect from './Components/Redirect'
+import Signup from './components/Signup'
+import Signin from './components/Signin'
+import Dashboard from './components/Dashboard'
+import SendMoney from './components/SendMoney'
+import Profile from './components/Profile'
+import Update from './components/Update'
+import Redirect from './components/Redirect'
 
 function App() {
 
